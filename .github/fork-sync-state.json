@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-27T11:31:12.966783+00:00",
+  "upstream": "EwyBoy/Counter-Phishing-Tool",
+  "upstream_branch": "master",
+  "upstream_commit": "4607025ba886786e105743bc928a1490a72f2646",
+  "version": 1,
+  "workflow_policy": "preserve fork workflows; never import upstream workflows"
+}
